@@ -19,3 +19,17 @@ D:\upwork\Json Editor\JsonEditor\JsonEditor\obj\Debug\JsonEditor.csprojResolveAs
 D:\upwork\Json Editor\JsonEditor\JsonEditor\obj\Debug\JsonEditor.Form1.resources
 D:\upwork\Json Editor\JsonEditor\JsonEditor\obj\Debug\JsonEditor.Properties.Resources.resources
 D:\upwork\Json Editor\JsonEditor\JsonEditor\obj\Debug\JsonEditor.csproj.GenerateResource.Cache
+C:\Users\Hang\Source\Repos\JsonEditor\JsonEditor\bin\Debug\JsonEditor.exe.config
+C:\Users\Hang\Source\Repos\JsonEditor\JsonEditor\bin\Debug\JsonEditor.exe
+C:\Users\Hang\Source\Repos\JsonEditor\JsonEditor\bin\Debug\JsonEditor.pdb
+C:\Users\Hang\Source\Repos\JsonEditor\JsonEditor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hang\Source\Repos\JsonEditor\JsonEditor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hang\Source\Repos\JsonEditor\JsonEditor\obj\Debug\JsonEditor.csprojAssemblyReference.cache
+C:\Users\Hang\Source\Repos\JsonEditor\JsonEditor\obj\Debug\JsonEditor.Properties.Resources.resources
+C:\Users\Hang\Source\Repos\JsonEditor\JsonEditor\obj\Debug\JsonEditor.csproj.GenerateResource.cache
+C:\Users\Hang\Source\Repos\JsonEditor\JsonEditor\obj\Debug\JsonEditor.csproj.CoreCompileInputs.cache
+C:\Users\Hang\Source\Repos\JsonEditor\JsonEditor\obj\Debug\JsonEditor.csproj.CopyComplete
+C:\Users\Hang\Source\Repos\JsonEditor\JsonEditor\obj\Debug\JsonEditor.exe
+C:\Users\Hang\Source\Repos\JsonEditor\JsonEditor\obj\Debug\JsonEditor.pdb
+C:\Users\Hang\Source\Repos\JsonEditor\JsonEditor\obj\Debug\JsonEditor.FormJSON.resources
+C:\Users\Hang\Source\Repos\JsonEditor\JsonEditor\obj\Debug\JsonEditor.FormTXT.resources

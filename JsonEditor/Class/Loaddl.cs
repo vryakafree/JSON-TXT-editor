@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace JsonEditor
+namespace JsonEditor.Class
 {
-    public class Tasks
+    class Loaddl
     {
-        public List<Task> tasks { get; set; }
+        public string STT1 { get; set; }
     }
 }
